@@ -1,5 +1,5 @@
 # Kullanım
-- config.js dosyasında gerekli alanları doldurup kullanıma başlayabilirsiniz. Slash komutların yüklenebilmesi için [bu](https://www.youtube.com/watch?v=rtXi1vhLUeA) videoyu izlemeyide unutmayınız.
+- config.js dosyasında gerekli alanları doldurup kullanıma başlayabilirsiniz. Slash komutları yükleyince hata almamak için [bu](https://www.youtube.com/watch?v=rtXi1vhLUeA) videoyu izlemeyide unutmayınız.
 
 # Hata buldum ne yapmalıyım?
 - [Serendia Squad](https://discord.gg/JpPmR2xEqM) sunucusu üzerinden yardım alabilirsiniz.
